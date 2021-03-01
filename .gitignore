@@ -1,0 +1,8 @@
+.idea
+.idea/workspace.xml
+target/
+*.iml
+*.xml
+*.html
+readme.txt
+.DS_Store
