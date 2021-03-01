@@ -2,7 +2,7 @@
 .idea/workspace.xml
 target/
 *.iml
-*.xml
+testng.xml
 *.html
 readme.txt
 .DS_Store
